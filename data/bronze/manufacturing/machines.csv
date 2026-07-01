@@ -1,0 +1,51 @@
+machine_id,machine_name,machine_type,plant_location,installation_date,last_maintenance_date,status,capacity_per_hour
+MCH001,CNC Lathe 1,Welding Robot,Plant D - Recife,2018-12-24,2024-09-21,Active,162
+MCH002,Packaging Unit 2,Welding Robot,Plant A - Sao Paulo,2015-12-21,2023-07-05,Active,53
+MCH003,CNC Lathe 3,Injection Molder,Plant D - Recife,2017-01-11,2023-08-19,Active,74
+MCH004,Press Machine 4,CNC Lathe,Plant A - Sao Paulo,2016-01-31,2023-07-22,Active,74
+MCH005,Assembly Robot 5,CNC Lathe,Plant A - Sao Paulo,2021-07-12,2024-03-19,Active,156
+MCH006,Welding Robot 6,Injection Molder,Plant B - Curitiba,2015-05-02,2024-09-15,Active,251
+MCH007,Injection Molder 7,Welding Robot,Plant A - Sao Paulo,2018-12-01,2024-04-11,Active,92
+MCH008,Packaging Unit 8,Welding Robot,Plant A - Sao Paulo,2017-09-22,2024-04-25,Active,217
+MCH009,Injection Molder 9,Press Machine,Plant C - Manaus,2018-08-31,2023-10-08,Active,265
+MCH010,Welding Robot 10,Welding Robot,Plant D - Recife,2020-08-03,2023-08-20,Idle,477
+MCH011,Packaging Unit 11,Packaging Unit,Plant A - Sao Paulo,2015-12-09,2024-05-31,Active,412
+MCH012,CNC Lathe 12,CNC Lathe,Plant D - Recife,2016-02-02,2023-10-11,Active,185
+MCH013,Press Machine 13,CNC Lathe,Plant D - Recife,2021-10-07,2024-03-26,Active,265
+MCH014,Press Machine 14,Press Machine,Plant B - Curitiba,2022-08-14,2023-03-30,Active,319
+MCH015,Welding Robot 15,Press Machine,Plant A - Sao Paulo,2015-10-26,2023-01-07,Active,477
+MCH016,Injection Molder 16,Injection Molder,Plant A - Sao Paulo,2021-08-23,2024-05-16,Active,419
+MCH017,Welding Robot 17,Assembly Robot,Plant D - Recife,2016-02-16,2023-06-16,Active,221
+MCH018,Packaging Unit 18,Welding Robot,Plant D - Recife,2018-09-06,2023-05-01,Active,443
+MCH019,Assembly Robot 19,Packaging Unit,Plant B - Curitiba,2020-03-10,2024-09-15,Active,189
+MCH020,Injection Molder 20,Welding Robot,Plant D - Recife,2017-08-20,2024-08-12,Active,240
+MCH021,Press Machine 21,CNC Lathe,Plant C - Manaus,2016-10-19,2023-08-08,Active,106
+MCH022,Press Machine 22,Assembly Robot,Plant A - Sao Paulo,2020-08-13,2024-05-26,Maintenance,55
+MCH023,Injection Molder 23,Press Machine,Plant A - Sao Paulo,2015-01-31,2023-03-15,Active,259
+MCH024,Press Machine 24,Press Machine,Plant D - Recife,2015-09-12,2024-02-12,Active,124
+MCH025,Packaging Unit 25,Packaging Unit,Plant A - Sao Paulo,2018-11-22,2024-06-09,Active,291
+MCH026,CNC Lathe 26,CNC Lathe,Plant D - Recife,2017-09-12,2024-03-09,Active,474
+MCH027,Press Machine 27,Press Machine,Plant B - Curitiba,2021-08-08,2023-01-20,Active,55
+MCH028,CNC Lathe 28,CNC Lathe,Plant B - Curitiba,2022-08-26,2023-05-18,Active,265
+MCH029,CNC Lathe 29,Press Machine,Plant C - Manaus,2015-12-08,2023-04-17,Active,439
+MCH030,CNC Lathe 30,Assembly Robot,Plant B - Curitiba,2022-04-14,2023-09-12,Active,166
+MCH031,Packaging Unit 31,Assembly Robot,Plant B - Curitiba,2018-03-27,2023-02-10,Active,354
+MCH032,CNC Lathe 32,Welding Robot,Plant A - Sao Paulo,2020-07-04,2024-08-04,Active,374
+MCH033,CNC Lathe 33,CNC Lathe,Plant A - Sao Paulo,2020-04-29,2024-11-24,Active,306
+MCH034,Assembly Robot 34,Packaging Unit,Plant D - Recife,2018-07-20,2024-05-14,Maintenance,167
+MCH035,Injection Molder 35,Press Machine,Plant C - Manaus,2015-01-26,2023-09-15,Idle,359
+MCH036,Assembly Robot 36,CNC Lathe,Plant B - Curitiba,2021-02-14,2024-09-26,Active,286
+MCH037,Injection Molder 37,CNC Lathe,Plant B - Curitiba,2022-02-27,2024-01-03,Active,92
+MCH038,Injection Molder 38,Packaging Unit,Plant D - Recife,2021-04-17,2024-06-21,Active,186
+MCH039,Assembly Robot 39,Press Machine,Plant B - Curitiba,2016-01-17,2024-09-08,Active,204
+MCH040,Welding Robot 40,Press Machine,Plant A - Sao Paulo,2020-09-16,2023-11-12,Active,315
+MCH041,Press Machine 41,Press Machine,Plant A - Sao Paulo,2021-11-21,2023-03-02,Active,227
+MCH042,Press Machine 42,CNC Lathe,Plant C - Manaus,2022-02-03,2024-08-15,Active,284
+MCH043,Injection Molder 43,Welding Robot,Plant D - Recife,2020-01-08,2024-02-28,Active,155
+MCH044,CNC Lathe 44,Injection Molder,Plant A - Sao Paulo,2019-09-26,2023-06-24,Active,52
+MCH045,CNC Lathe 45,Welding Robot,Plant A - Sao Paulo,2021-09-12,2024-07-21,Active,377
+MCH046,Assembly Robot 46,CNC Lathe,Plant B - Curitiba,2015-02-26,2024-10-20,Active,462
+MCH047,Assembly Robot 47,Injection Molder,Plant C - Manaus,2020-06-21,2023-02-19,Active,291
+MCH048,Assembly Robot 48,Press Machine,Plant A - Sao Paulo,2022-10-01,2023-05-14,Active,287
+MCH049,Packaging Unit 49,Injection Molder,Plant C - Manaus,2017-04-07,2024-02-25,Active,224
+MCH050,Welding Robot 50,Assembly Robot,Plant C - Manaus,2020-05-25,2024-10-09,Active,235

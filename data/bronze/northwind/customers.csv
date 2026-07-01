@@ -1,0 +1,11 @@
+customer_id,company_name,contact_name,contact_title,country,city
+NW0001,Alfreds Futterkiste,Contact 1,Owner,Germany,Belo Horizonte
+NW0002,Ana Trujillo Emparedados,Contact 2,Sales Agent,Mexico,Belo Horizonte
+NW0003,Antonio Moreno Taqueria,Contact 3,Sales Agent,Mexico,Porto Alegre
+NW0004,Around the Horn,Contact 4,Marketing Manager,UK,Belo Horizonte
+NW0005,Berglunds snabbkop,Contact 5,Marketing Manager,Sweden,Belo Horizonte
+NW0006,Blauer See Delikatessen,Contact 6,Owner,Germany,Belo Horizonte
+NW0007,Blondesddsl pere et fils,Contact 7,Sales Agent,France,Sao Paulo
+NW0008,Bolido Comidas preparadas,Contact 8,Sales Agent,Spain,Belo Horizonte
+NW0009,Bon app,Contact 9,Owner,France,Rio de Janeiro
+NW0010,Bottom-Dollar Markets,Contact 10,Marketing Manager,Canada,Salvador

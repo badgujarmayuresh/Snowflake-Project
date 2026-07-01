@@ -1,0 +1,31 @@
+product_id,product_name,supplier_id,category_id,quantity_per_unit,unit_price,units_in_stock,units_on_order,reorder_level,discontinued
+1,Chai,2,4,500 g,68.16,17,60,8,0
+2,Chang,5,1,500 g,46.31,78,21,23,0
+3,Aniseed Syrup,3,5,12 jars,23.37,77,2,27,0
+4,Chef Antons Cajun Seasoning,4,1,1 kg,102.11,162,39,29,0
+5,Chef Antons Gumbo Mix,5,8,24 bottles,138.59,97,96,24,1
+6,Grandmas Boysenberry Spread,7,6,10 boxes,126.81,130,49,10,1
+7,Uncle Bobs Organic Dried Pears,4,4,500 g,100.8,174,32,16,0
+8,Northwoods Cranberry Sauce,3,6,24 bottles,121.87,185,95,8,0
+9,Mishi Kobe Niku,3,6,10 boxes,15.53,195,4,7,0
+10,Ikura,6,1,12 jars,122.41,45,81,18,1
+11,Queso Cabrales,9,5,24 bottles,9.48,152,12,12,1
+12,Queso Manchego La Pastora,9,8,24 bottles,36.32,172,32,8,1
+13,Konbu,6,3,12 jars,137.34,186,8,8,1
+14,Tofu,8,6,500 g,50.34,75,11,17,0
+15,Genen Shouyu,6,7,10 boxes,45.97,32,64,30,0
+16,Pavlova,10,8,24 bottles,53.06,110,11,26,0
+17,Alice Mutton,2,7,1 kg,46.73,191,26,20,1
+18,Carnarvon Tigers,5,5,24 bottles,29.58,77,55,17,0
+19,Teatime Chocolate Biscuits,8,6,500 g,126.75,140,9,16,0
+20,Sir Rodneys Marmalade,3,1,1 kg,110.63,67,6,26,0
+21,Sir Rodneys Scones,1,1,12 jars,37.41,153,18,20,0
+22,Gustafs Knackebrod,10,1,1 kg,50.69,9,52,25,0
+23,Tunnbrod,7,3,24 bottles,89.13,34,50,14,0
+24,Guarana Fantastica,5,1,12 jars,33.59,175,59,17,0
+25,NuNuCa Nougat Creme,7,3,12 jars,126.69,155,48,19,0
+26,Gumbar Gummibarcheen,8,8,1 kg,71.88,164,74,7,0
+27,Schoggi Schokolade,2,5,1 kg,108.23,39,78,15,1
+28,Rossle Sauerkraut,6,6,10 boxes,82.66,84,85,7,1
+29,Thuringer Rostbratwurst,5,8,24 bottles,88.3,85,58,14,1
+30,Nord-Ost Matjeshering,4,2,500 g,9.6,28,12,8,0

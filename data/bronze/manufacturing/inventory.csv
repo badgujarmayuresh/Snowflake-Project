@@ -1,0 +1,11 @@
+material_id,material_name,unit_of_measure,current_stock,reorder_point,unit_cost,supplier_id,last_restocked_date
+MAT001,Steel Coil,meters,9811,293,23.61,SELL0076,2024-07-12
+MAT002,Plastic Pellets,meters,2502,251,43.42,SELL0078,2024-06-25
+MAT003,Aluminum Sheet,units,9350,871,23.45,SELL0029,2024-01-13
+MAT004,Rubber Seal,liters,1838,652,27.99,SELL0020,2024-08-21
+MAT005,Electronic Component,kg,6314,399,11.44,SELL0044,2024-07-03
+MAT006,Copper Wire,meters,8176,695,37.6,SELL0095,2024-08-25
+MAT007,Glass Panel,meters,8366,865,34.35,SELL0039,2024-02-28
+MAT008,Foam Padding,kg,1809,1000,26.49,SELL0019,2024-03-06
+MAT009,Cardboard Box,units,5988,275,38.41,SELL0050,2024-12-16
+MAT010,Paint Coat,meters,1024,891,33.37,SELL0046,2024-12-18

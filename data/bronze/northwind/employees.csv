@@ -1,0 +1,10 @@
+employee_id,last_name,first_name,title,birth_date,hire_date,country,reports_to
+1,Davolio,Nancy,Sales Representative,1974-07-31,2019-10-26,USA,2
+2,Fuller,Andrew,Vice President Sales,1962-09-13,2022-03-13,USA,
+3,Leverling,Janet,Sales Representative,1966-10-10,2018-01-13,USA,2
+4,Peacock,Margaret,Sales Representative,1968-03-01,2019-04-20,USA,2
+5,Buchanan,Steven,Sales Manager,1981-06-04,2022-08-08,USA,2
+6,Suyama,Michael,Sales Representative,1964-06-21,2015-03-05,USA,2
+7,King,Robert,Sales Representative,1983-06-03,2021-09-28,USA,2
+8,Callahan,Laura,Inside Sales Coordinator,1963-06-07,2015-08-25,USA,2
+9,Dodsworth,Anne,Sales Representative,1979-12-04,2022-01-04,USA,2
